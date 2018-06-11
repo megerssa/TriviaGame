@@ -1,0 +1,8 @@
+.style {
+	padding:10px;
+	border:1px solid rgba(0, 0, 0, 0.3);
+	width: 300px;
+    border-radius: 4px;
+    background-attachment: fixed;
+    background-image: -webkit-repeating-linear-gradient();
+}
